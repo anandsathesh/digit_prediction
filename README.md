@@ -170,7 +170,8 @@ Replace socket with MQTT for cloud-based control
 
 📸 Demo
 
-> Include a GIF or image showing you drawing the digit and the Pi lighting up the LED.
+> Output images are in the op file
+
 
 
 
